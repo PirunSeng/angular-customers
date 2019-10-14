@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Pirun Seng", "city": "Phnom Penh", "orderTotal": 9.99 },
+  { "id": 2, "name": "Seng", "city": "Kandal", "orderTotal": 6.99 },
+  { "id": 3, "name": "Nico", "city": "Kompong Cham", "orderTotal": 3.99 },
+  { "id": 4, "name": "Rainy", "city": "Siem Reap", "orderTotal": 10.99 }
+]
